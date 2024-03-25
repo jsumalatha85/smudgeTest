@@ -48,7 +48,7 @@ function Login() {
                         <span className="logsubtext">Remember me</span>
                       </div>
                       <div className="col-6" style={{ textAlign: "right" }}>
-                        <a href="/">Forgot Password?</a>
+                        <a href="http://google.com">Forgot Password?</a>
                       </div>
                     </div>
                     <div className="text-center mt-3">
@@ -56,7 +56,7 @@ function Login() {
                     </div>
                     <div className="text-center mt-3 subtext">
                       Dont have an account? Click here to{" "}
-                      <a href="/">Sign Up</a>
+                      <a href="http://google.com">Sign Up</a>
                     </div>
                   </div>
                 </form>
